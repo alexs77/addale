@@ -5,7 +5,7 @@ secret_edbi = Chef::EncryptedDataBagItem.load_secret(secret_file)
 # Secret (Kennwort) laden - IO.read
 secret_io = IO.read(node[:ew_icinga_client][:secret_file])
 
-secret = secret_edbi
+secret = secret_io
 
 # Debugging - write out secrets, that have just been read
 file "/tmp/secret_edbi" do
