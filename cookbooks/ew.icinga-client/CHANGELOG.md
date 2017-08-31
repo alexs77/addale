@@ -1,0 +1,1 @@
+# ew.icinga-client CHANGELOG

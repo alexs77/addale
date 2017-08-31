@@ -1,0 +1,52 @@
+{
+  "id": "addale-lb01-test",
+  "_kommentar": {
+    "encrypted_data": "fE2nLoNKs+gKePNg6BEP3LUf9P/hl51dHsqrCUWlujUOG8McQLQRXvQVCVlj\nVDKIVAO2vmQXVQsaGm7nTxVsqg==\n",
+    "hmac": "pbqCbQgCM4RRMa94AgaRjth51pSWfa71ITzNDUb5Lsc=\n",
+    "iv": "QCRNECCuGqe4mzeqeVS/8Q==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "nrpe_service": {
+    "encrypted_data": "xiAk3sDYFLrBoR/ZVqxMdhdwuLwReDxfkYsZGhZA/XxKK0EbOJWU13eaPjSM\nUqX2\n",
+    "hmac": "afu9S3Zyobk2yvXF76GdII3q2k5mYYd9ASFDLYSVTSM=\n",
+    "iv": "6wQDtzITT+FNrDERkDNrrw==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "icinga": {
+    "encrypted_data": "e2m6gAz5ojQJdCwdFrzTjdUndlvOEGecSqcNRfv8H2mIq9fGAZDn7MBjlkNy\npXywz7PgAwcT4WgA/W4dHGm1L74Hv70t3CD4m1LRLmnQczjuvkaIxLn/UC5W\nfqtPUeJw\n",
+    "hmac": "QE8WScJa7bLMtu6PO8aT8NHWnv6cJIYGn20ajowpg88=\n",
+    "iv": "xKNOst0TFInjmY0PTzy+PQ==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "timeservers": {
+    "encrypted_data": "z77xH+vgF9SsSL94PniZC+PiTplxr1fAlqKzFaVShwrfUAXO28fTU1Nw19V4\nqmrN\n",
+    "hmac": "89AIgDLoqw/LQNE5Bjcih3iIwICKdkohsea7MRQPLHs=\n",
+    "iv": "lhFiLkIs70lppzMxbVm/3A==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "apache": {
+    "encrypted_data": "Fqtq1d7Ahv5rDF0FCAUo/Xqfm2LYXTJVXLEHTJYRctLsRHPKyf7i2dmUorpG\nfaFw\n",
+    "hmac": "mVfATCa/JLdWufePgd0PRCGr86rj/vuXxhC/Z1ivSJE=\n",
+    "iv": "pWJghS4Tbn8/joDPPDWOtA==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "packages": {
+    "encrypted_data": "6wKgd8WKcN/olfzQAirZf/r2v53UCvFL1ESuW6xVb7AOBUkaZVhq4/lomoT2\n4Wnv/3Vx43E+RvTpW3kWv26DPOrJ3+16g8yNZxAs+PZDW0Ff21dTQE9TlCou\nQoR9LI1u\n",
+    "hmac": "rPKMotxI20grJ3+GbMG06UJvkLnsIcSCJUl++M+cc5M=\n",
+    "iv": "v1Ys5PL7Lp8B76nfj5OgdQ==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  },
+  "mysql_monitoring_account": {
+    "encrypted_data": "C2oNJYjeqyINmA+3Cvkmg7ijpLKBrGdZ7lOWbYvSpp9t6yxcYwB/vP59h8uZ\nonIP9kIkDh2jOvBGhRAALW7tQg==\n",
+    "hmac": "v4l+6TLDWZD0qhTifZ3UInFTHR5lWNBP4jJLsfJWG4g=\n",
+    "iv": "3lZUhtuNSf9cfIRwXvKfCA==\n",
+    "version": 2,
+    "cipher": "aes-256-cbc"
+  }
+}
